@@ -7,7 +7,7 @@ LIC_FILES_CHKSUM = "file://${COREBASE}/meta/COPYING.MIT;md5=3da9cfbcb788c80a0384
 S = "${WORKDIR}/git"
 
 SRC_URI = "\
-git:///home/erik/git-workspace/sprankler;protocol=file;branch=master \
+git:///home/erik/git-workspace/Sprankler;protocol=file;branch=master \
 "
 
 SRCREV = "${AUTOREV}"
